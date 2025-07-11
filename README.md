@@ -1,2 +1,7 @@
-# LegacyVsModern
-I will compare old (legacy) language and modern language in this repository.
+# Legacy vs Modern
+
+I will dig into depth of programming legacy as a "Digital Archaeologist".
+
+## Overview
+
+- In this repository, "Legacy" means 
