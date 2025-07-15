@@ -1,0 +1,33 @@
+IDI_APP ICON "High_and_Low.ico"
+
+
+
+VS_VERSION_INFO	VERSIONINFO
+FILEVERSION	2,3,0,0
+PRODUCTVERSION	2,3,0,0
+FILEFLAGSMASK	VS_FFI_FILEFLAGSMASK
+FILEFLAGS	0x00000000L
+FILEOS		VOS_NT_WINDOWS32
+FILETYPE	VFT_APP
+FILESUBTYPE	VFT2_UNKNOWN
+BEGIN
+	BLOCK "VarFileInfo"
+	BEGIN
+		VALUE "Translation", 0x0409, 1252
+	END
+	
+	BLOCK "StringFileInfo"
+	BEGIN
+		BLOCK "040904E4"
+		BEGIN
+			VALUE "CompanyName",	"DragonProduction\0"
+			VALUE "FileDescription","êîíló\ëzÉQÅ[ÉÄ"
+			VALUE "FileVersion",	"2,3,0,0\0"
+			VALUE "InternalName",	"Ryuji's High and Low\0"
+			VALUE "LegalCopyright",	"Copyright (C) 2012 Ryuji Hazama. All Rights Reserved.\0"
+			VALUE "OriginalFilename","High_and_Low.exe\0"
+			VALUE "ProductionName",	"High_and_Low\0"
+			VALUE "ProductVersion",	"2,3,0,0\0"
+		END
+	END
+END
