@@ -10,5 +10,13 @@ Because I grew up with it.
 
 ### How I started :book:
 
-&nbsp;&nbsp;&nbsp;&nbsp;My dad was also a system engineer and was understanding of programming. So I asked my dad I want to do programming &mdash;I didn't say 'hacking,' obviously,&mdash; and a few days later, he bought me a book titled "C language, beginning from 14, exciting game programming class (14歳からはじめるC言語オンラインゲームプログラミング教室 - 大槻 有一郎)." He couldn't find the book for under 14, because back then in Japan, programming skills were not considered as important as they are today.
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;My dad was also a system engineer and was understanding of programming. So I asked my dad I want to do programming &mdash;I didn't say 'hacking,' obviously,&mdash; and a few days later, he bought me a book titled "C language, beginning from 14, exciting game programming class (14歳からはじめるC言語オンラインゲームプログラミング教室 - 大槻 有一郎)." &mdash;He couldn't find the book for under 14, because back then in Japan, programming skills were not considered as important as they are today.  
+&nbsp;&nbsp;&nbsp;&nbsp;And, the book contained the installation media for BCC Developer and Borland C++ compiler as an appendix. That was the starting point for over 20 years of my programming journey.
+
+## "Play" with Programming :game_die:
+
+### Computer was my toy :video_game:
+
+&nbsp;&nbsp;&nbsp;&nbsp;I've been using computers since I can remember. Mostly, I played games with it. But after I've learned programming, it changed the computer more than just a gaming machine. I was able to control the computer at the system level as the ruler of the machine. Unlike the other game machines, breaking it or making it better all depended on me.
+
+### How did I learn :cd:
