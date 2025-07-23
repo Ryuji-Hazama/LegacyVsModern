@@ -1,6 +1,8 @@
 # Why I Matter Legacy :classical_building:
 
-Because I grew up with it.
+&nbsp;&nbsp;&nbsp;&nbsp;Because I grew up with it.  
+&nbsp;&nbsp;&nbsp;&nbsp;Not as just a theory, but as a practice&mdash;with tools long gone, and code long hidden. Yet both are still alive&mdash;in my blood, and beneath the modern code.  
+&nbsp;&nbsp;&nbsp;&nbsp;Let me guide you on a journey into the "Legacy"... through my childhood.
 
 ## Beginning of My Journey
 
@@ -23,7 +25,8 @@ Because I grew up with it.
 ### How did I learn :cd:
 
 &nbsp;&nbsp;&nbsp;&nbsp;However, learning programming in the early 2000s was not as easy as it is today. There wasn't much information on the internet, and no AI I could ask for help. I also had almost no one around me to ask. I could ask my dad, but programming was not considered important in Japan at that time, so most people simply weren't interested or didn't know anything about it.  
-&nbsp;&nbsp;&nbsp;&nbsp;I just "survived" like a child suddenly thrown into the wild. I knew that I could give up, because it wasn't forced to continue and learn. But also, that is why I can continue. Unlike the school subjects or the homework, I was free while coding. I was able to learn and experiment with whatever I wanted&mdash;unless I broke the computer&mdash;and it gave me the valid, certain results,&mdash;sometimes, the answers for my homework,&mdash; not like the numbers written in the corner of the sheet, which was for the test about the subjects that we didn't know when to use. That's why I could continue even without enough resources.
+&nbsp;&nbsp;&nbsp;&nbsp;I just "survived" like a child suddenly thrown into the wild. I knew that I could give up, because it wasn't forced to continue and learn. But also, that is why I can continue. Unlike the school subjects or the homework, When I was coding, I was free. I was able to learn and experiment with whatever I wanted&mdash;unless I broke the computer&mdash;and it gave me the valid, certain results,&mdash;sometimes, the answers for my homework,&mdash; not like the numbers written in the corner of the sheet, which was for the test about the subjects that we didn't know when to use. That's why I could continue even without enough resources.
 
-&nbsp;&nbsp;&nbsp;&nbsp;I read the references well enough, held them in one hand, and sometimes, I followed the instinct. Learn programming is not so easy for 12 years-old boy, especially at that time without any leads. But there is something I want to create, and when it forms the shape, it was so exciting! I can get something special that most people could not get at that time. That's why I need to continue, I WANT to learn.  
-&nbsp;&nbsp;&nbsp;&nbsp;Perhaps, I didn't learn. It was a joy for me to create something by my hand with coding. That's why, I could learn coding without learning. I was just creating useful tools. I just "played" with coding.
+&nbsp;&nbsp;&nbsp;&nbsp;I read the references well enough, held them in one hand, and sometimes, followed my instinct. Learning programming was not easy for a 12-year-old boy, especially at that time without any guidance. But there was something I wanted to create, and when it formed the shape, it was so exciting! I could get something special that most of my friends could not get at that time. That's why I continued learning, I WANTED to learn.  
+&nbsp;&nbsp;&nbsp;&nbsp;Perhaps, I didn't learn. It was a joy for me to create something with my hands by coding. That's why I could learn coding without learning. I was just creating useful tools. I just "played" with coding.  
+&nbsp;&nbsp;&nbsp;&nbsp;That's how I learned programming. No internet information, no AI, and no teacher. But also no class I must attend, no fancy pointless memorizations, and no test without meaning. Cut through the jungle by myself, walked across the plain, heading wherever I wanted to go, and built my palace on top of the hill.
