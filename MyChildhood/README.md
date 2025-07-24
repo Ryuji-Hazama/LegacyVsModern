@@ -49,12 +49,15 @@
 ### Tools and Technology
 
 &nbsp;&nbsp;&nbsp;&nbsp;I used to use BCC Developer for coding C. It had a code editor, Borland C++ compiler, and basic project management tools, but no auto-complete and error checks in the editor. And I also didn't install a debugger in it. So I needed to do ***everything*** by myself. I needed to check and find the errors from the compiler *manually*, and to determine execution errors, output *all the data* to the console.  
-&nbsp;&nbsp;&nbsp;&nbsp;  I spent hours, or sometimes a day, to find a typo or just a single missing semicolon. Because there was no code analysis, no error highlighting, and no hints showed up while typing. Even a clickable error navigation. It was a text-highlighted, just a "functional" text editor. I need to input all the characters of the code by my finger, and I need to remember all the functions or search in the book every time.
+&nbsp;&nbsp;&nbsp;&nbsp;I spent hours, or sometimes a day, to find a typo or just a single missing semicolon. Because there was no code analysis, no error highlighting, and no hints showed up while typing. Even a clickable error navigation. It was a text-highlighted, just a "functional" text editor. I need to input all the characters of the code with my finger, and I need to remember all the functions or search in the book every time.
+&nbsp;&nbsp;&nbsp;&nbsp;And if the error occurred at runtime, I needed to gather all the information myself with output everything on the console to track all variable values and the flow.
 
 ### Compair to modern?
 
 ## Why I started to dig in
 
 ### My grandpa
+
 ### Modern tools
+
 ### I changed my carreer at 30
