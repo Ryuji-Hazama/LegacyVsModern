@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Not as just a theory, but as a practice&mdash;with tools long gone, and code long hidden. Yet both are still alive&mdash;in my blood, and beneath the modern code.  
 &nbsp;&nbsp;&nbsp;&nbsp;Let me guide you on a journey into the "Legacy"... through my childhood.
 
-## Beginning of My Journey
+## Beginning of My Journey :mountain:
 
 ### Why I started programming :national_park:
 
@@ -44,20 +44,36 @@
 > - No internet, no AI, no Stack Overflow and no Teacher
 >
 
-## Project Development
+## Project Development :man_technologist:
 
-### Tools and Technology
+### Tools and technology :floppy_disk:
 
 &nbsp;&nbsp;&nbsp;&nbsp;I used to use BCC Developer for coding C. It had a code editor, Borland C++ compiler, and basic project management tools, but no auto-complete and error checks in the editor. And I also didn't install a debugger in it. So I needed to do ***everything*** by myself. I needed to check and find the errors from the compiler *manually*, and to determine execution errors, output *all the data* to the console.  
-&nbsp;&nbsp;&nbsp;&nbsp;I spent hours, or sometimes a day, to find a typo or just a single missing semicolon. Because there was no code analysis, no error highlighting, and no hints showed up while typing. Even a clickable error navigation. It was a text-highlighted, just a "functional" text editor. I need to input all the characters of the code with my finger, and I need to remember all the functions or search in the book every time.
-&nbsp;&nbsp;&nbsp;&nbsp;And if the error occurred at runtime, I needed to gather all the information myself with output everything on the console to track all variable values and the flow.
+&nbsp;&nbsp;&nbsp;&nbsp;I spent hours, or sometimes a day, to find a typo or just a single missing semicolon. Because there was no code analysis, no error highlighting, and no hints showed up while typing. Even a clickable error navigation. It was a text-highlighted, just a "functional" text editor. I need to input all the characters of the code with my finger, and I need to remember all the functions or search in the book every time.  
+&nbsp;&nbsp;&nbsp;&nbsp;And if the error occurred at runtime, I needed to gather all the information manually, by outputting everything on the console to track all variable values and the execution flow. The system error message just shown, "Oh, hey! There is an error in your system. I'm shutting it down," and there were no stack traces, and no hints about what caused the error.
 
-### Compair to modern?
+### Walking in the Darkness :flashlight:
 
-## Why I started to dig in
+&nbsp;&nbsp;&nbsp;&nbsp;Coding in the 2000s felt like walking in the darkness. When I fell down on the ground, I had no idea what caused it, and I had to jump off the cliff without knowing how high it was and what was waiting at the bottom. And was no one to stop me, even if I'm heading in the wrong direction. And when I was lost, I needed to find the way out by myself; there was no map and no one to tell me the direction to the exit.  
+&nbsp;&nbsp;&nbsp;&nbsp;But also, that's why I can manage almost everything today. I can find a small clue from almost nothing to fix the problem, and I can create something from scratch. I know and am used to the darkness, and that's not the fear for me. That's an exciting challenge for me, because I know what's inside. Short of resources doesn't matter for me, because I have skills.
 
-### My grandpa
+&nbsp;&nbsp;&nbsp;&nbsp;***This is the real power of "Legacy Coding."***
 
-### Modern tools
+## Why I started to dig in :pick:
 
-### I changed my carreer at 30
+### My grandpa :mage_man:
+
+&nbsp;&nbsp;&nbsp;&nbsp;Surprisingly, my grandpa (my mom's dad) was a computer engineer too. He had a small electric store for ham radio, and he built his own computer using an Intel 8085 and Assembly Language. I found a beginner's guide book for Assembly programming after he passed away. In his era, he must have had absolutely nothing to help and guide him but the book. However, he survived and created a system to assist with his paperwork decades before the world started switching from paper to digital.  
+&nbsp;&nbsp;&nbsp;&nbsp;It was not so easy for him to code in his era same as mine, or even harder. Before coding, he needed to build a computer in the first place to execute his code. And there was no shortcut in Assembly. He needed to manage all parts of his computer with his code; there were no default functions or libraries, and a line of the raw code could move only one part of the machine only once. But at the same time, he could control everything. He controlled every single bit of memory, every single character on the screen, and every single blink of the LED light on his computer.  
+
+&nbsp;&nbsp;&nbsp;&nbsp;This sounds astonishing and something special&mdash;and it is actually. But ***this is a foundation and the beginning of modern computing, and he was standing in it.***
+
+### Modern tools :computer:
+
+&nbsp;&nbsp;&nbsp;&nbsp;These days, coding is way more relaxed than it used to be. Colorful text highlights, auto-complete with smart lists, and error checks before compiling the code. A bunch of foolproofs, fail-safes, and even when an error occurs, the system automatically collects the data that caused the error.
+
+&nbsp;&nbsp;&nbsp;&nbsp;But this is the foundation of our modern technologies and tools. What I built in my childhood was stands on the technology my grandpa used, and what you are building today is all stands on the technology I used to use.
+
+### I changed my carreer at 30 :nerd_face:
+
+## To the Future ::
