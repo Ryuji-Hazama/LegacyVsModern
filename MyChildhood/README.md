@@ -55,7 +55,7 @@
 ### Walking in the Darkness :flashlight:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Coding in the 2000s felt like walking in the darkness. When I fell down on the ground, I had no idea what caused it, and I had to jump off the cliff without knowing how high it was and what was waiting at the bottom. And was no one to stop me, even if I'm heading in the wrong direction. And when I was lost, I needed to find the way out by myself; there was no map and no one to tell me the direction to the exit.  
-&nbsp;&nbsp;&nbsp;&nbsp;But also, that's why I can manage almost everything today. I can find a small clue from almost nothing to fix the problem, and I can create something from scratch. I know and am used to the darkness, and that's not the fear for me. That's an exciting challenge for me, because I know what's inside. Short of resources doesn't matter for me, because I have skills.
+&nbsp;&nbsp;&nbsp;&nbsp;But also, that's why I can manage almost everything today. I can find a clue from almost nothing to fix the problem, and I can create something from scratch. I know the darkness and am used to it, and that's not the fear for me. That's an exciting challenge for me, because I know what's inside. Short of resources doesn't matter for me, because I have skills.
 
 &nbsp;&nbsp;&nbsp;&nbsp;***This is the real power of "Legacy Coding."***
 
@@ -66,14 +66,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Surprisingly, my grandpa (my mom's dad) was a computer engineer too. He had a small electric store for ham radio, and he built his own computer using an Intel 8085 and Assembly Language. I found a beginner's guide book for Assembly programming after he passed away. In his era, he must have had absolutely nothing to help and guide him but the book. However, he survived and created a system to assist with his paperwork decades before the world started switching from paper to digital.  
 &nbsp;&nbsp;&nbsp;&nbsp;It was not so easy for him to code in his era same as mine, or even harder. Before coding, he needed to build a computer in the first place to execute his code. And there was no shortcut in Assembly. He needed to manage all parts of his computer with his code; there were no default functions or libraries, and a line of the raw code could move only one part of the machine only once. But at the same time, he could control everything. He controlled every single bit of memory, every single character on the screen, and every single blink of the LED light on his computer.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;This sounds astonishing and something special&mdash;and it is actually. But ***this is a foundation and the beginning of modern computing, and he was standing in it.***
+&nbsp;&nbsp;&nbsp;&nbsp;This sounds astonishing and something special&mdash;and it is actually. But ***this is a foundation and the beginning of modern computing,** and he was standing in it.*
 
 ### Modern tools :computer:
 
-&nbsp;&nbsp;&nbsp;&nbsp;These days, coding is way more relaxed than it used to be. Colorful text highlights, auto-complete with smart lists, and error checks before compiling the code. A bunch of foolproofs, fail-safes, and even when an error occurs, the system automatically collects the data that caused the error.
+&nbsp;&nbsp;&nbsp;&nbsp;These days, coding is way more relaxed than it used to be&mdash;colorful text highlights, auto-complete with mini lists, and real-time error checks. A lot of foolproofs, fail-safes, and even when an error occurs, the system automatically collects the data that caused the error. When you feel a little unsure about the use of the function, mouse over the function text, and the editor shows some small tips. If you need some information, you can find a lot of it on the internet more than you can find inside a book, and if you need some help, you can find a lot of communities on the internet, and also able to ask the AI. Or some cases, the AI will generate your code.  
+&nbsp;&nbsp;&nbsp;&nbsp;The programming language is way smarter than my childhood. Built-in functions are easier to use, and there are a lot of libraries for many purposes. No need to think about memory structures, because the compiler is handling it. And some functions that we needed multiple lines when we used the legacy code, it is only one line in modern code, and you don't even need to think about what's inside it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;But this is the foundation of our modern technologies and tools. What I built in my childhood was stands on the technology my grandpa used, and what you are building today is all stands on the technology I used to use.
+&nbsp;&nbsp;&nbsp;&nbsp;But these tools, libraries, and one-liner codes are all found on the technologies that my grandpa and I used to use. What I built in my childhood was stands on the technology my grandpa used, and what you are building today is all stands on the technology I used to use.
 
-### I changed my carreer at 30 :nerd_face:
+### I changed my career at 30 :nerd_face:
 
-## To the Future ::
+&nbsp;&nbsp;&nbsp;&nbsp;I used to be a roly driver, and I had built a management system for delivery plans as my hobby. But one day, I realized that it is more comfortable to be in front of a PC monitor than driving a car, so I changed my career to a professional computer engineer when I was 30.  
+&nbsp;&nbsp;&nbsp;&nbsp;While I was coding as a hobby, I cared about the memory use and functions behind a line of code, but when I saw the modern professionals' code, I realized that modern engineers don't care about what is behind their code so much. It seems they are relay on modern technologies&mdash;huge capacities of modern computers, and ready-to-use libraries&mdash;and if it works, they don't care even if there are more efficient ways for the computer.
+
+## To the Future :rocket:
