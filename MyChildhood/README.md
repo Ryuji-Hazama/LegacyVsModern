@@ -33,7 +33,7 @@
 
 ### *Summary of my early programming (2000s)* :tv:
 
-> #### *Summary: :memo:*
+> #### *Summary:* :memo:
 >
 > - **Age Started**: *12*
 > - **First Language**: *C (Borland C++)*
@@ -59,6 +59,16 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;***This is the real power of "Legacy Coding."***
 
+### *Summary for Project Development* :wrench:
+
+> #### *Summary:* :memo:
+>
+> - **Language & Tools**: *C (Borland C++) / BCC Developer*
+> - **Environment**: *Text-only editor, no debugger, manual console output*
+> - **Challenges**: *No error hints, no autocomplete, no documentation help*
+> - **How I Debugged**: *Print everything, track flow manually, fix typos by instinct*
+> - **Mindset**: *Coding was walking in the dark&mdash;but I learned to see in the dark*
+
 ## Why I started to dig in :pick:
 
 ### My grandpa :mage_man:
@@ -70,14 +80,34 @@
 
 ### Modern tools :computer:
 
-&nbsp;&nbsp;&nbsp;&nbsp;These days, coding is way more relaxed than it used to be&mdash;colorful text highlights, auto-complete with mini lists, and real-time error checks. A lot of foolproofs, fail-safes, and even when an error occurs, the system automatically collects the data that caused the error. When you feel a little unsure about the use of the function, mouse over the function text, and the editor shows some small tips. If you need some information, you can find a lot of it on the internet more than you can find inside a book, and if you need some help, you can find a lot of communities on the internet, and also able to ask the AI. Or some cases, the AI will generate your code.  
-&nbsp;&nbsp;&nbsp;&nbsp;The programming language is way smarter than my childhood. Built-in functions are easier to use, and there are a lot of libraries for many purposes. No need to think about memory structures, because the compiler is handling it. And some functions that we needed multiple lines when we used the legacy code, it is only one line in modern code, and you don't even need to think about what's inside it.
+&nbsp;&nbsp;&nbsp;&nbsp;These days, coding is way more relaxed than it used to be&mdash;colorful text highlights, auto-complete with mini lists, and real-time error checks. A lot of foolproofs, fail-safes, and even when an error occurs, the system automatically collects the data that caused the error. When you feel a little unsure about the use of the function, mouse over the function text, and the editor shows some small tips. If you need extra information, you can find a lot of it on the internet more than you can find inside a book, and if you need some help, you can find a lot of communities on the internet, and also able to ask the AI. Or some cases, the AI will generate your code.  
+&nbsp;&nbsp;&nbsp;&nbsp;Also the programming languages itself is way smarter than my childhood. Built-in functions are easier to use, and there are a lot of libraries for many purposes. No need to think about memory structures, because the compiler is handling it. And some functions that we needed multiple lines when we used the legacy code, it is only one line in modern code, and you don't even need to think about what's inside it.
 
 &nbsp;&nbsp;&nbsp;&nbsp;But these tools, libraries, and one-liner codes are all found on the technologies that my grandpa and I used to use. What I built in my childhood was stands on the technology my grandpa used, and what you are building today is all stands on the technology I used to use.
 
 ### I changed my career at 30 :nerd_face:
 
-&nbsp;&nbsp;&nbsp;&nbsp;I used to be a roly driver, and I had built a management system for delivery plans as my hobby. But one day, I realized that it is more comfortable to be in front of a PC monitor than driving a car, so I changed my career to a professional computer engineer when I was 30.  
-&nbsp;&nbsp;&nbsp;&nbsp;While I was coding as a hobby, I cared about the memory use and functions behind a line of code, but when I saw the modern professionals' code, I realized that modern engineers don't care about what is behind their code so much. It seems they are relay on modern technologies&mdash;huge capacities of modern computers, and ready-to-use libraries&mdash;and if it works, they don't care even if there are more efficient ways for the computer.
+&nbsp;&nbsp;&nbsp;&nbsp;I used to be a lorry driver, and I had built a management system for delivery plans as my hobby. But one day, I realized that it is more comfortable to be in front of a PC monitor than driving a car, so I changed my career to a professional computer engineer when I was 30.  
+&nbsp;&nbsp;&nbsp;&nbsp;While I was coding as a hobby, I cared about the memory use and functions behind a line of code. But because modern technologies are so helpful, many engineers no longer need to understand what is happening behind their code today. And when I saw the modern engineer code, it seems they are relay on modern technologies&mdash;huge capacities of modern computers, and ready-to-use libraries&mdash;and if it works, they don't care even if there are more efficient ways for the computer. Adding some lines of machine code does not have a huge effect on modern computers, although if it piles up, the effect appears more clearly. But no one cares about the machine code anymore, or perhaps they have no idea about it.
+
+&nbsp;&nbsp;&nbsp;&nbsp;One such day, I found a book on my bookshelf about Assembly Programming for Intel 8085, which my grandpa used to read. And I realized that the code in the book is so smart, efficient, and has no wasted moves in it. It should be so because the capacity of a computer like the Intel 8085 was so small when the book was written. And I remember that I used to do the same thing with a computer with around 100MB of RAM.&mdash;It wasn't Assembly, but in C, though. Then I thought about modern programming, I couldn't help thinking I need to preserve and teach this to the next generations, to understand how the machine works and why our code works.
+
+&nbsp;&nbsp;&nbsp;&nbsp;That's why I started to dig into the Legacy.
+
+### Summary for Legacy Awakeness :lizard:
+
+> #### *Summary:* :memo:
+>
+> - **Inspiration**: *My grandpa built a computer from scratch using Intel 8085 and Assembly*
+> - **Realization**: *Modern code stands on forgotten brilliance and limitations of the past*
+> - **Career Shift**: *From delivery driver to engineer at 30, carrying my childhood mindset*
+> - **Concern**: *Modern developers don't care what's under the hood&mdash;but I do.*
+> - **My Mission**: *Preserve and pass on the precision, discipline, and beauty of "Legacy"*
 
 ## To the Future :rocket:
+
+### Abstraction and the Age of AI :robot:
+
+## Final Thought :thinking:
+
+### This is not My History :scroll:
