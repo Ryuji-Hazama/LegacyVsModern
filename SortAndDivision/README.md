@@ -7,6 +7,6 @@
 ```mermaid
 graph TD
 
-SortStart(("START")) --> 1["$$N - 1 \rarr C$$"];
+SortStart(("START")) --> 1["$N - 1 \rarr C$"];
 
 ```
