@@ -19,7 +19,7 @@ This is a sample of the subroutine structure of Assembly code.
 
 - Full control, do everything.
 - Hardware-centric
-- Programmer controls
+- The programmer controls
   - Guessing
   - Division (by bit shift)
   - Memories and registers
@@ -34,12 +34,12 @@ This is the basic structured code with a subroutine.
 
 - Just guide the logic.
 - Flow-centric
-- Programmer controls
+- The programmer controls
   - Logic (calculations)
   - Loop
 - No need to consider memory structure - the compiler handles memory and registers.
 - Able to use operands in calculations.
-- More readable for human.
+- More readable for humans.
 
 \* ***Please don't say "you can use \<math.h\>."*** :sweat_smile:
 
@@ -49,7 +49,7 @@ This is a modern abstracted code.
 
 - Ask everything to the system.
 - Outcome-centric
-- Programmer controls
+- The programmer controls
   - Flow
   - Input and output
 - No need to think about basic mathematical logic.
@@ -60,7 +60,7 @@ This is a modern abstracted code.
 
 This is a simple function to find the square root of n.  
 You need only one line to do this math with a modern programming language. However, there are almost 50 steps of machine code hiding behind that only one line.  
-If you understand what lies beneath, and care about every line of code you write, the system you build will be more beautiful - and more elegant.
+If you understand what lies beneath, and care about every line of code you write, the system you build will be more beautiful &mdash;and more elegant.
 
 ## Flow :twisted_rightwards_arrows:
 
