@@ -33,7 +33,7 @@
 
 ### *Summary of my early programming (2000s)* :tv:
 
-> #### *Summary:* :memo:
+> #### *Summary 1:* :memo:
 >
 > - **Age Started**: *12*
 > - **First Language**: *C (Borland C++)*
@@ -61,7 +61,7 @@
 
 ### *Summary for Project Development* :wrench:
 
-> #### *Summary:* :memo:
+> #### *Summary 2:* :memo:
 >
 > - **Language & Tools**: *C (Borland C++) / BCC Developer*
 > - **Environment**: *Text-only editor, no debugger, manual console output*
@@ -96,7 +96,7 @@
 
 ### Summary for Legacy Awakeness :lizard:
 
-> #### *Summary:* :memo:
+> #### *Summary 3:* :memo:
 >
 > - **Inspiration**: *My grandpa built a computer from scratch using Intel 8085 and Assembly*
 > - **Realization**: *Modern code stands on forgotten brilliance and limitations of the past*
@@ -120,3 +120,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Luckily, I could have seen the three generations of computing: machine-level computing, low-level but structured languages, and abstracted coding.  
 &nbsp;&nbsp;&nbsp;&nbsp;These days, AI is taking a big part in computing, and thinking about low-level is not necessary for us anymore. In fact, we can get an IT job without coding, and code without thinking about how they work. And miraculously, they work perfectly. But, that is not a magic or some kind of miracle, that is because they all stand on the foundation of the "Legacy" that our ancestors precisely built one by one, line by line, with their very hands. And if you dig into the modern code, you will come across the low-level language that same as I used to use, and in the end, you will reach the machine code that same as my grandpa used to use.  
 &nbsp;&nbsp;&nbsp;&nbsp;I wrote about "Legacy" coding through my personal history, but this is not just my history, but also the history that leads to modern computing. I experienced the history that became the foundation of today. But the people who start coding today will never experience those days that hard, but that was able to control everything. They will not crush the memory by missing a line, and will not crush the system by infinite recursions. But the "Legacy" is not what we left behind; it is a part of today.
+
+&nbsp;&nbsp;&nbsp;&nbsp;That's why I&mdash;and you should matter "Legacy."  
+&nbsp;&nbsp;&nbsp;&nbsp;And if we all care about the "Legacy" behind the modern code, even just a little bit, our system will become rich, stable, and unbreakable.
