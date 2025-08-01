@@ -19,7 +19,7 @@
 
 ### Computer was my toy :video_game:
 
-&nbsp;&nbsp;&nbsp;&nbsp;*I've been using computers* since I can remember. Mostly, I played games with it. But after I've learned programming, it changed the computer more than just a gaming machine. I was able to control the computer at the system level as the *ruler of the machine*, and breaking it or making it better **all depended on me**. That made me attracted to the computer more than the other game machines or any other toys.  
+&nbsp;&nbsp;&nbsp;&nbsp;*I've been using computers* since I can remember. Mostly, I played games with it. But after I've learned programming, it changed the computer more than just a gaming machine. I was able to control the computer at the system level as the *ruler of the machine*, and breaking it or making it better **all depended on me**. That made me more attracted to the computer than to other game machines or toys.  
 &nbsp;&nbsp;&nbsp;&nbsp;Spending hours in front of the computer, coding with it after school, and debugging on weekends. That's how I spent my time in my teenage years. **The computer was a toy**, and the *coding was a video game* for me that explored the IT world.
 
 ### How did I learn :cd:
@@ -41,7 +41,7 @@
 > - **IDE**: *BCC Developer / Borland C++*
 > - **How to Learn**: *Trial & Error, instinct, printed references*
 > - **Environment**: *Windows ME* (Be my friend if you have ever used this computer.)
-> - No internet, no AI, no Stack Overflow and no Teacher
+> - No internet, no AI, no Stack Overflow, and no Teacher
 >
 
 ## Project Development :man_technologist:
@@ -74,7 +74,7 @@
 ### My grandpa :mage_man:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Surprisingly, my *grandpa* (my mom's dad) was a computer engineer too. He had a small electric store for ham radio, and **he built his own computer** using an Intel 8085 and *Assembly Language*. I found a beginner's guide book for Assembly programming after he passed away. In his era, he must have had absolutely *nothing* to help and guide him but the book. However, he survived and **created a system** to assist with his paperwork ***decades before** the world started switching from paper to digital*.  
-&nbsp;&nbsp;&nbsp;&nbsp;It was not so easy for him to code in his era same as mine, *or even harder*. Before coding, *he needed to build a computer* in the first place to execute his code. And there was no shortcut in Assembly. He needed to manage **all parts of his computer** with his code; there were no default functions or libraries, and a line of the raw code could move *only one part* of the machine *only once*. But at the same time, he could control **everything**. He controlled every single bit of memory, every single character on the screen, and every single blink of the LED light on his computer.  
+&nbsp;&nbsp;&nbsp;&nbsp;It was not so easy for him to code in his era as same in mine; *it was even harder*. Before coding, *he needed to build a computer* in the first place to execute his code. And there was no shortcut in Assembly. He needed to manage **all parts of his computer** with his code; there were no default functions or libraries, and a line of raw code could move *only one part* of the machine *only once*. But at the same time, he could control **everything**. He controlled every single bit of memory, every single character on the screen, and every single blink of the LED light on his computer.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;This sounds astonishing and something special&mdash;and it is actually. But ***this is a foundation and the beginning of modern computing,** and he was standing in it.*
 
@@ -111,8 +111,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;The programming languages of today are becoming more abstract than they were yesterday. That is not a bad thing; actually, it is a great thing. It increases the efficiency of the production, and it is more safer machine to control the low-level machine controls instead of being hard-coded by humans. And in the future, &mdash;not so far&mdash; I think we don't even need to code anymore. The AI will take that part; we just need to think of the prompt to ask the AI, and it is already happening in some parts.  
 &nbsp;&nbsp;&nbsp;&nbsp;That makes the programming more abstract than today. If that happens, people will no longer care about the code anymore as long as it works. And again, it is not a bad thing; it is much better to be built by a machine to increase the efficiency and decrease the "human" error, even some abstracted codes.
 
-&nbsp;&nbsp;&nbsp;&nbsp;However, we still need the "Legacy" coding in the future.
+&nbsp;&nbsp;&nbsp;&nbsp;However, we still need the "Legacy" in the future. The AI and the abstracted code are very useful, as long as they work perfectly. But when something breaks, we have to look inside. To debug, to analyze, and to truly understand why it fails, we need to understand how it works beneath the surface of abstractions. And no matter how advanced the technology gets, you will always see the "Legacy" in there.
 
 ## Final Thought :thinking:
 
-### This is not My History :scroll:
+### This is not just My History :scroll:
+
+&nbsp;&nbsp;&nbsp;&nbsp;Luckily, I could have seen the three generations of computing: machine-level computing, low-level but structured languages, and abstracted coding.  
+&nbsp;&nbsp;&nbsp;&nbsp;These days, AI is taking a big part in computing, and thinking about low-level is not necessary for us anymore. In fact, we can get an IT job without coding, and code without thinking about how they work. And miraculously, they work perfectly. But, that is not a magic or some kind of miracle, that is because they all stand on the foundation of the "Legacy" that our ancestors precisely built one by one, line by line, with their very hands. And if you dig into the modern code, you will come across the low-level language that same as I used to use, and in the end, you will reach the machine code that same as my grandpa used to use.  
+&nbsp;&nbsp;&nbsp;&nbsp;I wrote about "Legacy" coding through my personal history, but this is not just my history, but also the history that leads to modern computing. I experienced the history that became the foundation of today. But the people who start coding today will never experience those days that hard, but that was able to control everything. They will not crush the memory by missing a line, and will not crush the system by infinite recursions. But the "Legacy" is not what we left behind; it is a part of today.
