@@ -1,3 +1,7 @@
+# Codes from My Childhood :child:
+
+&nbsp;&nbsp;&nbsp;&nbsp;In this folder, I will store the code from my childhood. There were still some pieces of the "Legacy" back then, and these codes remind me of those days.
+
 # Why I Matter Legacy :classical_building:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Because I grew up with it.  
