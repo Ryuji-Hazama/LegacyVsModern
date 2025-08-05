@@ -1,4 +1,4 @@
-# Codes from My Childhood :child:
+# Code from My Childhood :child:
 
 &nbsp;&nbsp;&nbsp;&nbsp;In this folder, I will store the code from my childhood. There were still some pieces of the "Legacy" back then, and these codes remind me of those days.
 
@@ -112,18 +112,18 @@
 
 ### Abstraction and the Age of AI :robot:
 
-&nbsp;&nbsp;&nbsp;&nbsp;The programming languages of today are becoming more abstract than they were yesterday. That is not a bad thing; actually, it is a great thing. It increases the efficiency of the production, and it is more safer machine to control the low-level machine controls instead of being hard-coded by humans. And in the future, &mdash;not so far&mdash; I think we don't even need to code anymore. The AI will take that part; we just need to think of the prompt to ask the AI, and it is already happening in some parts.  
-&nbsp;&nbsp;&nbsp;&nbsp;That makes the programming more abstract than today. If that happens, people will no longer care about the code anymore as long as it works. And again, it is not a bad thing; it is much better to be built by a machine to increase the efficiency and decrease the "human" error, even some abstracted codes.
+&nbsp;&nbsp;&nbsp;&nbsp;The programming languages of today are becoming more *abstract* than they were yesterday. That is not a bad thing; actually, it is a great thing. It increases the efficiency of the production, and it is more *safer* machine to control the low-level machine controls instead of being hard-coded by humans. And in the future, &mdash;not so far&mdash; I think *we don't even need to **code anymore***. The AI will take that part; we just need to think of the *prompt* to ask the AI, and it is **already happening** in some parts.  
+&nbsp;&nbsp;&nbsp;&nbsp;That makes the programming **more abstract** than today. If that happens, people will no longer care about the code anymore as long as it works. And again, it is not a bad thing; it is much better to be built by a machine to increase the efficiency and decrease the "human" error, even some abstracted codes.
 
-&nbsp;&nbsp;&nbsp;&nbsp;However, we still need the "Legacy" in the future. The AI and the abstracted code are very useful, as long as they work perfectly. But when something breaks, we have to look inside. To debug, to analyze, and to truly understand why it fails, we need to understand how it works beneath the surface of abstractions. And no matter how advanced the technology gets, you will always see the "Legacy" in there.
+&nbsp;&nbsp;&nbsp;&nbsp;However, we still need the "Legacy" in the future. The AI and the abstracted code are very useful, as long as they work perfectly. But *when something breaks*, we have to look inside. To debug, to analyze, and to **truly understand** why it fails, we need to understand how it works *beneath the surface of abstractions*. And no matter how advanced the technology gets, you will always see the "Legacy" in there.
 
 ## Final Thought :thinking:
 
 ### This is not just My History :scroll:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Luckily, I could have seen the three generations of computing: machine-level computing, low-level but structured languages, and abstracted coding.  
-&nbsp;&nbsp;&nbsp;&nbsp;These days, AI is taking a big part in computing, and thinking about low-level is not necessary for us anymore. In fact, we can get an IT job without coding, and code without thinking about how they work. And miraculously, they work perfectly. But, that is not a magic or some kind of miracle, that is because they all stand on the foundation of the "Legacy" that our ancestors precisely built one by one, line by line, with their very hands. And if you dig into the modern code, you will come across the low-level language that same as I used to use, and in the end, you will reach the machine code that same as my grandpa used to use.  
-&nbsp;&nbsp;&nbsp;&nbsp;I wrote about "Legacy" coding through my personal history, but this is not just my history, but also the history that leads to modern computing. I experienced the history that became the foundation of today. But the people who start coding today will never experience those days that hard, but that was able to control everything. They will not crush the memory by missing a line, and will not crush the system by infinite recursions. But the "Legacy" is not what we left behind; it is a part of today.
+&nbsp;&nbsp;&nbsp;&nbsp;These days, AI is taking a big part in computing, and thinking about low-level is not necessary for us anymore. In fact, we can get an IT job *without coding*, and code without thinking about how they work. And miraculously, they work perfectly. But, that is not a magic or some kind of miracle, that is because they all stand on the **foundation of the "Legacy"** that our ancestors *precisely built* one by one, line by line, with their *very hands*. And if you dig into the modern code, you will come across the low-level language that same as I used to use, and in the end, you will reach the machine code that same as my grandpa used to use.  
+&nbsp;&nbsp;&nbsp;&nbsp;I wrote about "Legacy" coding through my personal history, but this is *not just my history*, but also the history that *leads to modern computing*. I experienced the history that became the foundation of today. But the people who start coding today will never experience those days that hard, but that was able to *control everything*. They will not crush the memory by missing a line, and will not crush the system by infinite recursions. But the "Legacy" is not what we left behind; it is a **part of today**.
 
-&nbsp;&nbsp;&nbsp;&nbsp;That's why I&mdash;and you should matter "Legacy."  
+&nbsp;&nbsp;&nbsp;&nbsp;That's why I&mdash;and *you* should matter "Legacy."  
 &nbsp;&nbsp;&nbsp;&nbsp;And if we all care about the "Legacy" behind the modern code, even just a little bit, our system will become rich, stable, and unbreakable.
