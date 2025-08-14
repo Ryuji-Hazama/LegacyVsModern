@@ -64,6 +64,12 @@ If you understand what lies beneath, and care about every line of code you write
 
 ## Equations
 
+the function is  
+$y = f(x)$
+
+the derivative is  
+$\frac{dy}{dx} = f'(x)$
+
 ### From the Newton-Raphson method
 
 $x_{n + 1} = x_n - \frac{f(x_n)}{f'(x_{n + 1})}$  
@@ -80,10 +86,10 @@ $x^2 - a = 0$
 then  
 $\therefore{x} = \sqrt{a}$
 
-### Combine them
-
-the derivative is  
+and the derivative is  
 $f'(x) = 2x$
+
+### Combine them
 
 so  
 $x_{n + 1} = x_n - \frac{{x_n}^2 - a}{2x_n}$  
