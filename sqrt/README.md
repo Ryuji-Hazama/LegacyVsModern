@@ -64,20 +64,23 @@ If you understand what lies beneath, and care about every line of code you write
 
 ## Flow :twisted_rightwards_arrows:
 
-```math
-x_{n + 1} = x_n - \frac{f(x_n)}{f\rq(x_{n + 1})}
-```
+$x_{n + 1} = x_n - \frac{f(x_n)}{f'(x_{n + 1})}$  
+$f'(x_{n + 1}) \neq 0$
 
-```math
-x_{n + 1} = \frac{1}{2}x_n + \frac{a}{2x_n}
-```
+$f(x) = x^2 - a$  
+$x^2 - a = 0$  
+$&there4;x = \sqrt{a}$
+
+$f'(x) = 2x$  
+$x_{n + 1} = x_n - \frac{{x_n}^2 - a}{2x_n}$  
+$x_{n + 1} = \frac{1}{2}x_n + \frac{a}{2x_n}$
 
 ```mermaid
 graph TD;
 
 S(("START"))-->A{"a<0 ?"};
 A--"yes"---H(("HALT"));
-A--"no"-->B{"a=0 ?"};
+A--"no"-->B{"$a=0 ?$"};
 B--"yes"-->ST(("STOP"));
 B--"no"-->C["a&rightarrow;c"];
 C-->D["(c + a / c) / 2&rightarrow;d"];
