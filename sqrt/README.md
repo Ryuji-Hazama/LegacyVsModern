@@ -69,7 +69,7 @@ graph TD;
 
 S(("START"))-->A{"a<0 ?"};
 A--"yes"---H(("HALT"));
-A--"no"-->B{"a=0 ?"};
+A--"no"-->B{"`$$a=0 ?$$`"};
 B--"yes"-->ST(("STOP"));
 B--"no"-->C["a&rightarrow;c"];
 C-->D["(c + a / c) / 2&rightarrow;d"];
