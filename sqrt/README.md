@@ -62,18 +62,34 @@ This is a simple function to find the square root of n.
 You need only one line to do this math with a modern programming language. However, there are almost 50 steps of machine code hiding behind that only one line.  
 If you understand what lies beneath, and care about every line of code you write, the system you build will be more beautiful &mdash;and more elegant.
 
-## Flow :twisted_rightwards_arrows:
+## Equations
+
+### From the Newton-Raphson method
 
 $x_{n + 1} = x_n - \frac{f(x_n)}{f'(x_{n + 1})}$  
 $f'(x_{n + 1}) \neq 0$
 
-$f(x) = x^2 - a$  
-$x^2 - a = 0$  
-$&there4;x = \sqrt{a}$
+### To calculate the square root
 
-$f'(x) = 2x$  
+use  
+$f(x) = x^2 - a$
+
+when  
+$x^2 - a = 0$
+
+then  
+$\therefore{x} = \sqrt{a}$
+
+### Combine them
+
+the derivative is  
+$f'(x) = 2x$
+
+so  
 $x_{n + 1} = x_n - \frac{{x_n}^2 - a}{2x_n}$  
 $x_{n + 1} = \frac{1}{2}x_n + \frac{a}{2x_n}$
+
+## Flow :twisted_rightwards_arrows:
 
 ```mermaid
 graph TD;
