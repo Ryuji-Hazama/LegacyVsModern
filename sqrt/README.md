@@ -62,7 +62,24 @@ This is a simple function to find the square root of n.
 You need only one line to do this math with a modern programming language. However, there are almost 50 steps of machine code hiding behind that only one line.  
 If you understand what lies beneath, and care about every line of code you write, the system you build will be more beautiful &mdash;and more elegant.
 
-## Equations
+## Flow :twisted_rightwards_arrows:
+
+```mermaid
+graph TD;
+
+S(("START"))-->A{"a<0 ?"};
+A--"yes"---H(("HALT"));
+A--"no"-->B{"a=0 ?"};
+B--"yes"-->ST(("STOP"));
+B--"no"-->C["a&rightarrow;c"];
+C-->D["(c + a / c) / 2&rightarrow;d"];
+D-->E{"d=c ?"};
+F["d&rightarrow;c"]-->D;
+E--"no"-->F;
+E--"yes"--->ST;
+```
+
+## Why It Works (Equations)
 
 the function is  
 $y = f(x)$
@@ -94,20 +111,3 @@ $f'(x) = 2x$
 so  
 $x_{n + 1} = x_n - \frac{{x_n}^2 - a}{2x_n}$  
 $x_{n + 1} = \frac{1}{2}x_n + \frac{a}{2x_n}$
-
-## Flow :twisted_rightwards_arrows:
-
-```mermaid
-graph TD;
-
-S(("START"))-->A{"a<0 ?"};
-A--"yes"---H(("HALT"));
-A--"no"-->B{"a=0 ?"};
-B--"yes"-->ST(("STOP"));
-B--"no"-->C["a&rightarrow;c"];
-C-->D["(c + a / c) / 2&rightarrow;d"];
-D-->E{"d=c ?"};
-F["d&rightarrow;c"]-->D;
-E--"no"-->F;
-E--"yes"---->ST;
-```
