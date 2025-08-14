@@ -64,12 +64,14 @@ If you understand what lies beneath, and care about every line of code you write
 
 ## Flow :twisted_rightwards_arrows:
 
+$$\sigma(z)_{i} = \frac{e^{z_{i}}}{\sum_{j=1}^{K}e^{z_j}}$$
+
 ```mermaid
 graph TD;
 
 S(("START"))-->A{"a<0 ?"};
 A--"yes"---H(("HALT"));
-A--"no"-->B{"`$$a=0 ?$$`"};
+A--"no"-->B{"a=0 ?"};
 B--"yes"-->ST(("STOP"));
 B--"no"-->C["a&rightarrow;c"];
 C-->D["(c + a / c) / 2&rightarrow;d"];
