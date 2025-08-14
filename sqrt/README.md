@@ -65,8 +65,10 @@ If you understand what lies beneath, and care about every line of code you write
 ## Flow :twisted_rightwards_arrows:
 
 ```math
-x_{n + 1} = x_n - \frac{f(x_n)}{f'(x_{n + 1})}  
+x_{n + 1} = x_n - \frac{f(x_n)}{f\rq(x_{n + 1})}
+```
 
+```math
 x_{n + 1} = \frac{1}{2}x_n + \frac{a}{2x_n}
 ```
 
